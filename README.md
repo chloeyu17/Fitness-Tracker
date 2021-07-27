@@ -29,7 +29,7 @@ As a user, I want to be able to view create and track daily workouts. I want to 
 
 ## Demo
 
-![Demo](./images/Demo.gif "Demo")
+![Demo](./images/FullDemo.gif "Demo")
 
   ![Screen Shot2](./images/MainPage.png?raw=true "Screen Shot2")
 
